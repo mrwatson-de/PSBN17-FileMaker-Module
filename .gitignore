@@ -9,4 +9,5 @@
 **/fmdiff/
 
 #IGNORE copies of the PSBN file in the examples folder
+examples/**/PSBN.fmp12
 examples/**/PSBN17.fmp12
